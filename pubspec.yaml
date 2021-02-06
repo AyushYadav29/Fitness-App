@@ -1,0 +1,91 @@
+name: fitness_app
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^0.5.6+3
+  image: ^2.0.7
+  provider: ^4.3.1
+  animator: ^1.0.0+5
+  cached_network_image:
+  circular_profile_avatar: ^1.0.6
+  firebase_auth: ^0.16.1
+  # firebase_auth: ^0.18.0+1
+  google_sign_in: ^4.5.1
+  curved_navigation_bar: ^0.3.3
+  flutter_svg: ^0.19.1
+  sqflite:
+  path:
+  lite_rolling_switch: ^0.1.1
+  barcode_scan:
+  url_launcher:
+  path_provider:
+  hive_flutter:
+  hive:
+  cloud_firestore: ^0.13.4+2
+  firebase_storage: ^3.1.5
+  charts_flutter: ^0.9.0
+  tflite: ^1.0.5
+  image_picker: ^0.6.3
+  syncfusion_flutter_charts: ^18.3.51
+  # cloud_firestore: ^0.13.7
+  # firebase_storage: ^3.1.5
+  # firebase_core: ^0.4.4
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator:
+  build_runner:
+
+flutter_native_splash:
+  image: assets/images/insta-splash-screen2.png
+  color: "ffffff"
+  fill: true
+  
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  fonts:
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+    
+    - family: Aveny
+      fonts:
+        - asset: assets/fonts/AvenyT.ttf
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans.ttf
+    - family: MyFlutterApp
+      fonts:
+        - asset: assets/fonts/MyFlutterApp.ttf
+    
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/icons2/
+
