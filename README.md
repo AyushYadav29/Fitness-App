@@ -52,7 +52,7 @@ Using deep learning it identifies the food through images and then automatically
 
 <img width="300" src="screenshots/graph.jpg" alt="Graph" >
 
-<img width="300" src="basicInformation.jpg" alt="Basic Information" >
+<img width="300" src="screenshots/basicInformation.jpg" alt="Basic Information" >
 
 <img width="300" src="screenshots/profile.jpg" alt="Profile" >
 
