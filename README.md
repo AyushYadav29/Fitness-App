@@ -32,7 +32,7 @@ Using deep learning it identifies the food through images and then automatically
 <img width="300" src="screenshots/signup.jpg" alt="Signup Page" >
 
 
-<img width="300" src="screenshots/google_signin.jpg" alt="Google Sigin PopUp" >
+<img width="300" src="screenshots/google_signin.jpeg" alt="Google Sigin PopUp" >
 
 
 <img width="300" src="screenshots/mealsPage.jpg" alt="Meals Page" >
@@ -54,7 +54,7 @@ Using deep learning it identifies the food through images and then automatically
 
 <img width="300" src="screenshots/basicInformation.jpg" alt="Basic Information" >
 
-<img width="300" src="screenshots/profile.jpg" alt="Profile" >
+<img width="300" src="screenshots/profile.jpeg" alt="Profile" >
 
 
 
