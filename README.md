@@ -27,10 +27,34 @@ Using deep learning it identifies the food through images and then automatically
 # Screenshots
 <p>
 
-<img width="300" src="https://github.com/AyushYadav29/Fitness-App/tree/main/screenshots/login.jpg" alt="Login Page" >
+<img width="300" src="screenshots/login.jpg" alt="Login Page" >
+
+<img width="300" src="screenshots/signup.jpg" alt="Signup Page" >
 
 
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/profile.jpg" alt="Profile" >
+<img width="300" src="screenshots/google_signin.jpg" alt="Google Sigin PopUp" >
+
+
+<img width="300" src="screenshots/mealsPage.jpg" alt="Meals Page" >
+
+
+<img width="300" src="screenshots/savedMeals.jpg" alt="Saved Meals" >
+
+<img width="300" src="screenshots/savedMealsInfo.jpg" alt="Saved Meals Info" >
+
+
+<img width="300" src="screenshots/addImage.jpg" alt="Add Image" >
+
+
+<img width="300" src="screenshots/prediction.jpg" alt="Prediction" >
+
+<img width="300" src="screenshots/mealsInfo.jpg" alt="Meals Info" >
+
+<img width="300" src="screenshots/graph.jpg" alt="Graph" >
+
+<img width="300" src="basicInformation.jpg" alt="Basic Information" >
+
+<img width="300" src="screenshots/profile.jpg" alt="Profile" >
 
 
 
